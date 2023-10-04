@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80473a10-210e-44d6-a182-00cad973dee1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Taller01-Snake/src/main/java/com/espol/taller01/snake/GUIView.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller01-Snake/src/main/java/com/espol/taller01/snake/GUIView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Taller01-Snake/src/main/java/com/espol/taller01/snake/GoldModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Taller01-Snake/src/main/java/com/espol/taller01/snake/GoldModel.java" afterDir="false" />
-    </list>
+    <list default="true" id="80473a10-210e-44d6-a182-00cad973dee1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
